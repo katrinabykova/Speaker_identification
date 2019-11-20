@@ -1,6 +1,6 @@
-###Project proposal
+### Project proposal
 
-##Speaker Identification
+## Speaker Identification
 
 Katrina Bykova
 
